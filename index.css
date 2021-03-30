@@ -654,3 +654,38 @@ main {
   height: 54px;
   margin: 16px 0 !important;
 }
+
+.emergency-btn {
+  width: 50%;
+  height: 40px;
+  text-align: center;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  margin-top: 32px;
+  text-transform: capitalize;
+}
+
+.save-disc-btn {
+  width: 50%;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 1rem;
+  margin-top: 32px;
+  outline: none;
+  border: 1px solid #ffaf13;
+  color: #ffaf13;
+  border-radius: 4px;
+}
+.save-disc-btn:hover,
+.save-disc-btn:focus {
+  color: white;
+  background: #ffaf13;
+  border: 0;
+}

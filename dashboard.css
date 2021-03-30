@@ -564,7 +564,7 @@ td {
   line-height: 16px;
 }
 .hidden {
-  display: none;
+  display: none !important;
 }
 
 .staff-slot-name {
