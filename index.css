@@ -689,3 +689,12 @@ main {
   background: #ffaf13;
   border: 0;
 }
+
+.tab-pane {
+  width: 100% !important;
+  overflow-y: auto;
+  max-height: 40vh;
+}
+.dropdown {
+  width: 100% !important;
+}
