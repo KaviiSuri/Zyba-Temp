@@ -690,11 +690,11 @@ main {
   border: 0;
 }
 
-.tab-pane {
+.rate-card-modal .tab-pane {
   width: 100% !important;
   overflow-y: auto;
   max-height: 40vh;
 }
-.dropdown {
+.rate-card-modal .dropdown {
   width: 100% !important;
 }
